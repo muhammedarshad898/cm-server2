@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "fullname": "jacab",
+      "imageurl": "https://c8.alamy.com/comp/2PWERD5/student-avatar-illustration-simple-cartoon-user-portrait-user-profile-icon-youth-avatar-vector-illustration-2PWERD5.jpg",
+      "relation": "collegue",
+      "phonenumber": "9876543221",
+      "email": "jacabjac@gmail.com",
+      "whatsupnumber": "98765544433",
+      "instaid": "jacabjac123",
+      "id": 1
+    },
+    {
+      "fullname": "raman karta",
+      "imageurl": "https://thumbs.dreamstime.com/z/student-avatar-illustration-user-profile-icon-youth-avatar-student-avatar-illustration-simple-cartoon-user-portrait-user-profile-276205531.jpg",
+      "relation": "collegue",
+      "phonenumber": "9876543212",
+      "email": "raman123@gmail.com",
+      "whatsupnumber": "9876543210",
+      "instaid": "ramansram",
+      "id": 2
+    },
+    {
+      "fullname": "Tintu mon",
+      "imageurl": "https://i.ytimg.com/vi/6DStg8_23ig/maxresdefault.jpg",
+      "relation": "classmate",
+      "phonenumber": "9876543210",
+      "email": "tintu123@gmail.com",
+      "whatsupnumber": "9876543232",
+      "instaid": "tintustories",
+      "id": 3
+    },
+    {
+      "fullname": "Tom cat",
+      "imageurl": "https://cdn.pixabay.com/photo/2020/05/11/15/38/tom-5158824_1280.png",
+      "relation": "brother",
+      "phonenumber": "987654321",
+      "email": "tomcat123@gmail.com",
+      "whatsupnumber": "9876544322",
+      "instaid": "tomrides",
+      "id": 4
+    },
+    {
+      "fullname": "jerry thomas",
+      "imageurl": "https://wallpapercave.com/wp/wp2162146.jpg",
+      "relation": "classmate",
+      "phonenumber": "98765432312",
+      "email": "jerry123@gmail.com",
+      "whatsupnumber": "987654321",
+      "instaid": "jerrypages",
+      "id": 5
+    },
+    {
+      "fullname": "lilly blossom blom",
+      "imageurl": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-05-16/Getty_BlakeLivelyItEndswithUs_051624.png",
+      "relation": "classmate",
+      "phonenumber": "9876543217",
+      "email": "lilly123@gmail.com",
+      "whatsupnumber": "98765432089",
+      "instaid": "lilillii",
+      "id": 6
+    }
+  ]
+}
